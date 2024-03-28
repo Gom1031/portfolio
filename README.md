@@ -1,7 +1,5 @@
 # 홍길동의 포트폴리오
 
-![Banner Image]((https://github.com/Gom1031/portfolio/blob/main/images/profiles/%EC%82%AC%EC%A7%84.png))
-
 안녕하세요! 저는 홍길동입니다. 전문적으로 소프트웨어 개발에 종사하고 있으며, 혁신적인 프로젝트를 통해 세상에 긍정적인 영향을 끼치고자 합니다.
 
 ## 소개
