@@ -25,8 +25,8 @@ Java & Spring 기반의 신입 웹 백엔드 개발자입니다.
 
 ## 연락처
 
-- 📧 이메일: [이메일 주소](rhrudah@gmail.com)
-- GitHub: [Atheniald](https://github.com/Atheniald)
+- 📧 이메일: rhrudah@gmail.com
+- GitHub: [Gom1031](https://github.com/Gom1031)
 
 ## 기타
 
