@@ -10,12 +10,24 @@
 
 이러한 시장의 필요를 충족시키기 위해, 웹소켓 기술을 이용하여 실시간으로 채팅 및 화상회의를 하며 개발환경을 제공하는 시스템을 개발하기로 결정하였습니다.
 
+## 제작 기간 및 타임라인
+![Timeline](https://github.com/Gom1031/portfolio/blob/main/%EA%B5%AC%EB%A6%84_1%EC%B0%A8_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/images/timeline.png)
+
+## 프로젝트 구조 및 기술 스택
+![architecture](https://github.com/Gom1031/portfolio/blob/main/%EA%B5%AC%EB%A6%84_1%EC%B0%A8_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/images/architecture.png)
+
 ## 창의적 구현 및 특이점
 
 webRTC기능 및 웹소켓 기능을 구현하기 위해 Openvidu라는 오픈소스 라이브러리를 사용했습니다.  
   
 이를 통해 직접 구현하는 것 보다 안정성이 높은 서비스를 구현할 수 있었습니다.  
 또한, Openvidu에서 제공하는 해상도 조절, 카메라 끄기, 채팅 기능 등 다양한 기능을 손쉽고 빠르게 구현할 수 있었습니다.
+
+## 핵심 기능
+
+
+## 트러블슈팅 경험
+
 
 ## 회고
 
@@ -34,18 +46,4 @@ webRTC기능 및 웹소켓 기능을 구현하기 위해 Openvidu라는 오픈�
 예외처리 및 에러코드를 적절히 사용하여 프론트 환경 및 콘솔에서 로그를 통해 어떤 부분이 문제인지 빠르게 확인하여 수정하도록 하겠습니다.
 
 
----
-
-### Architecture & Technology Stack
-![architecture](https://github.com/Gom1031/portfolio/blob/main/%EA%B5%AC%EB%A6%84_1%EC%B0%A8_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/images/architecture.png)
-
----
-
-### Timeline
-![Timeline](https://github.com/Gom1031/portfolio/blob/main/%EA%B5%AC%EB%A6%84_1%EC%B0%A8_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/images/timeline.png)
-
----
-
-### ERD
-![ERD](https://github.com/Gom1031/portfolio/blob/main/%EA%B5%AC%EB%A6%84_1%EC%B0%A8_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/images/ERD.png)
    
