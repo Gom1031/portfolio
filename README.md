@@ -19,7 +19,7 @@ Java & Spring 기반의 신입 웹 백엔드 개발자입니다.
 
 | 프로젝트 이름 | 설명 | 사용 기술 |
 |---|---|---|
-| [COSMO'S](https://github.com/Gom1031/portfolio/tree/main/%EA%B5%AC%EB%A6%84_1%EC%B0%A8_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8) | 코딩과 스터디 모집, 코스모스에서 한번에 해결하세요! | `Java` `Spring` `MySQL` `Docker` `AWS` `Jenkins` |
+| [COSMO'S](https://github.com/Gom1031/portfolio/tree/main/%EA%B5%AC%EB%A6%84_1%EC%B0%A8_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8) | 코딩과 스터디 모집, 코스모스에서 한번에 해결하세요! | `Java` `Spring` `MySQL` `Docker` `AWS` `Jenkins` `NGNIX` |
 | [프로젝트 2](프로젝트 링크) | 프로젝트에 대한 간단한 설명이 들어갑니다. | `Vue.js`, `Django` |
 | [프로젝트 3](프로젝트 링크) | 프로젝트에 대한 간단한 설명이 들어갑니다. | `Angular`, `Express` |
 
