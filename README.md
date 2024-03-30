@@ -49,9 +49,3 @@ Java & Spring 기반의 신입 웹 백엔드 개발자입니다.
 >[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
 
 ---
-
-## 기타
-
-- 블로그: [![Blog Badge](https://img.shields.io/badge/Blog-yourblog.com-1f425f.svg)](https://yourblog.com)
-
----
