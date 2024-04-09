@@ -37,15 +37,3 @@ Java & Spring 기반의 신입 웹 백엔드 개발자입니다.
 >[프로젝트 상세 설명 및 개인 회고](https://github.com/Gom1031/portfolio/tree/main/%EA%B5%AC%EB%A6%84_1%EC%B0%A8_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8) 참고
 
 ---
-
-### 2. [두 번째 프로젝트]()
->두 번째 프로젝트 간략 소개  (팀 프로젝트)  
->개발 기간: 2020.7.18 ~ 2020.11.5  
->  
->기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
->  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
-
----
