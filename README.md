@@ -50,5 +50,5 @@ Java & Spring 기반의 신입 웹 백엔드 개발자입니다.
 >
 >[프로젝트 기획](https://github.com/Gom1031/portfolio/blob/main/%EA%B5%AC%EB%A6%84_2%EC%B0%A8_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EA%B8%B0%ED%9A%8D/JellyDiary_%EA%B8%B0%ED%9A%8D.pdf) 참고
 >
->[프로젝트 상세 설명 및 개인 회고](https://github.com/Gom1031/portfolio/tree/main/%EA%B5%AC%EB%A6%84_1%EC%B0%A8_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8) 참고
+>[프로젝트 상세 설명 및 개인 회고]() 참고
 
