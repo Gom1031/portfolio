@@ -41,7 +41,7 @@ Java & Spring 기반의 신입 웹 백엔드 개발자입니다.
 ## :pushpin: Projects
 ### 2. [JellyDiary](https://github.com/Gom1031/portfolio/tree/main/%EA%B5%AC%EB%A6%84_2%EC%B0%A8_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
 >스터디 모집을 통한 웹IDE 및 화상회의 서비스 (팀 프로젝트) 
->개발 기간: 2024.04.01 ~ 2024.03.28  
+>개발 기간: 2024.04.01 ~ 2024.05.23
 >  
 >기술 스택:  
 >Java 17 / Spring Boot 3.2.4 / Gradle / Spring Data JPA   
