@@ -1,4 +1,4 @@
-## :pushpin: 소개
+## 🌟 소개
 
 <img src="img/후드티.jpg" alt="Profile Image" width="130" align="left" style="margin-right: 20px;">
 
@@ -13,7 +13,7 @@
 
 <br>
 
-## :pushpin: Intro
+## 🚀 Intro
 
 Java & Spring 기반의 신입 웹 백엔드 개발자입니다.    
 
@@ -27,7 +27,7 @@ Java & Spring 기반의 신입 웹 백엔드 개발자입니다.
 
 </br>
 
-## :pushpin: Career
+## 🏢 Career
 - [(주)예람](http://www.yeram.co.kr/)
 > 직책 : 전자입찰사이트 유지보수 인턴
 >
@@ -46,8 +46,7 @@ Java & Spring 기반의 신입 웹 백엔드 개발자입니다.
   
 </br>
 
-## :pushpin: Projects
-
+## 💼 Projects
 
 ### 1. [COSMO'S](https://github.com/Gom1031/portfolio/tree/main/%EA%B5%AC%EB%A6%84_1%EC%B0%A8_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/_BE)
 >스터디 모집을 통한 웹IDE 및 화상회의 서비스 (팀 프로젝트) 
